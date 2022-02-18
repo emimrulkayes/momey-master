@@ -51,7 +51,6 @@ label {
     color: #c09104;
 }
 
-.balance {
-    font-size: 16px;
-    font-weight: 500;
+.error {
+    display: none;
 }
